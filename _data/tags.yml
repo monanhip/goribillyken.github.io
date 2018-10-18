@@ -1,0 +1,14 @@
+---
+title: 태그시스템 만들기
+layout: post
+tags: [tag1, tag2, tag3]
+---
+
+- slug: tag1
+  name: Tag1
+
+- slug: tag2
+  name: Tag2
+
+- slug: tag3
+  name: Tag3
