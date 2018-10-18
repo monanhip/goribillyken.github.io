@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme             : mmistakes/minimal-mistakes
 # Site Settings
-locale                   : "ko-KR"
-title                    : "Site Title"
+locale                   : "en-US"
+title                    : "Dev history"
 title_separator          : "-"
 name                     : "monanhip"
 description              : "Dev history website."
